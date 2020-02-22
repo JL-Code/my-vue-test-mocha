@@ -1,4 +1,4 @@
-# my-vue-test
+# my-vue-test-mocha
 
 ## Project setup
 ```
